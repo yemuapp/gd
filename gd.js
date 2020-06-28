@@ -3968,8 +3968,8 @@ function file_code(path) {
 </div>
 <a href="${href}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i class="mdui-icon material-icons">file_download</i></a>
 
-<script src="//cdn.jsdelivr.net/gh/yemuapp/gd//js/ace.js"></script>
-<script src="//cdn.jsdelivr.net/gh/yemuapp/gd//js/ext-language_tools.js"></script>
+<script src="//cdn.jsdelivr.net/gh/yemuapp/gd@1.1.1/js/ace.js"></script>
+<script src="//cdn.jsdelivr.net/gh/yemuapp/gd@1.1.1/js/ext-language_tools.js"></script>
 	`;
   $('#content').html(content);
 
@@ -4297,4 +4297,3 @@ $(function () {
 
   render(path);
 });
-//# sourceMappingURL=/sm/6e384b7c2f5d0aa9c6028ac483ff0c0b2e4dc5254b764e5022644e6b83ba4474.map
